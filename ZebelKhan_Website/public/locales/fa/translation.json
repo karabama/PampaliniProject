@@ -1,0 +1,16 @@
+{
+  "navbar": {
+    "home": "خانه",
+    "services": "خدمات",
+    "about": "درباره ما",
+    "contact": "تماس با ما",
+    "login": "ورود",
+    "logout": "خروج"
+    "navbar.home":  "خانه",
+    "navbar.services": "خدمات",
+    "navbar.about": "درباره ما",
+    "navbar.contact": "تماس با ما",
+    "login": "ورود",
+    "logout": "خروج"
+  }
+}

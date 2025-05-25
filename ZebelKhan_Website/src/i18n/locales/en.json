@@ -1,0 +1,32 @@
+{
+  "welcome_to_zebel_khan": "Welcome to Zebel Khan!",
+  "our_services": "Our Services",
+  "services_full_description": "We provide a wide range of administrative, financial, legal, and health-related services to simplify your life. Let our agents handle your tasks efficiently.",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "banking": "Banking",
+  "banking_desc": "Open accounts, deposits, cheque services and more.",
+  "insurance": "Insurance",
+  "insurance_desc": "Car, life, and health insurance services made easy.",
+  "healthcare": "Healthcare",
+  "healthcare_desc": "Doctor appointments, lab tests, and pharmacy pickup.",
+  "legal": "Legal Services",
+  "legal_desc": "Notary services, document review, and legal consultations.",
+  "other": "Other Services",
+  "other_desc": "From bill payments to appointments, we’ve got it covered.",
+   "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "dashboard": "Dashboard",
+    "language": "Language",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+    "adminDashboard": "Admin Dashboard",
+    "adminPanel": "Admin Panel",
+    "profile": "Profile"
+  }
+}

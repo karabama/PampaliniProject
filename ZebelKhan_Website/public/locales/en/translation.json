@@ -1,0 +1,9 @@
+{
+  "navbar": {
+    "home": "home",
+    "services": "services",
+    "about": "about",
+    "contact": "contact",
+    "login": "login"
+  }
+}
